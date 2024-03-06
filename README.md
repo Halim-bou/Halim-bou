@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdelhalim Elbouaami
+- 👋 Hi, I’m Abdelhalim Elbouaami
 - 👀 I’m interested in software enginering 
 - 🌱 I’m currently learning backend web developement
 - 💞️ I’m looking to collaborate on Backend Web solutions
